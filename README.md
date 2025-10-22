@@ -17,9 +17,9 @@ Nachdem ich das gemacht habe, sehe ich alle meine Repositorien in der Suchleiste
 
 Installiere [Docker](https://www.docker.com/products/docker-desktop/) und [Docker für Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
-Docker fragt Sie nach der Installation ob Sie sich anmelden wollen. Das ist nicht notwendig aber Sie können es machen.
-
 Vor der Installation fragt es Sie welche Punkte erfüllt sein sollen. Sie können hier die Standardeinstellung lassen und fortfahren.
+
+Docker fragt Sie nach der Installation ob Sie sich anmelden wollen. Das ist nicht notwendig aber Sie können es machen.
 
 Wenn Docker installiert ist, wird dein Computer sehr wahrscheinlich einen Neustart durchführen müssen, weil es WSL 2 nicht hat.
 
