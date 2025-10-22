@@ -2,7 +2,6 @@
 
 ### Klonen des Repositories
 
-
 Zuerst erstelle ich ein Fork des Zielrepositorien.
 
 ![1](img/1.png)
