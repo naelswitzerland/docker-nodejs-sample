@@ -60,7 +60,7 @@ docker-nodejs-sample/
  package.json
  README.md
 
-###  Starten der Applikation in einem Docker-Container
+### Starten der Applikation in einem Docker-Container
 
 Lass im Terminal den Command "docker compose up --build" laufen.
 
