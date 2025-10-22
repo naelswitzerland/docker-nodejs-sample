@@ -13,7 +13,7 @@ Als nächstes schreibe ich «Git: Clone» in die Suchleiste. Das zwingt mich mei
 
 Nachdem ich das gemacht habe, sehe ich alle meine Repositorien in der Suchleiste und wähle das richtige aus. Wenn das erledigt ist, wähle ich den Zielort meines Repositoriums in meinem Datei Explorer aus.
 
-### Docker-Konfiguration und -Installation
+### "Docker-Konfiguration und -Installation"
 
 Installiere [Docker](https://www.docker.com/products/docker-desktop/) und [Docker für Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
